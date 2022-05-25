@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(141, 140, 140);
+}
+
+.profile {
+    text-align: center;
+}
+
+.foto {
+    width: 130px;
+    margin: 10px 10px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+h1 {
+    color: white;
+}
