@@ -4,7 +4,9 @@
 }
 
 body {
-    background-color: rgb(141, 140, 140);
+    background-image: url(img/wallpaper.jpg);
+    background-size: cover; 
+    color: white;
 }
 
 .profile {
@@ -19,5 +21,22 @@ body {
 }
 
 h1 {
-    color: white;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.links {
+    text-align: center;
+}
+
+.links li {
+    margin: 20px;
+    border: 2px solid white;
+    padding: 7px;
+    list-style: none;
+    border-radius: 5px;
+    background-color: white;
 }
